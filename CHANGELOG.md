@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/googleapis/python-network-management/compare/v1.2.1...v1.3.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#62](https://github.com/googleapis/python-network-management/issues/62)) ([ab2afd2](https://github.com/googleapis/python-network-management/commit/ab2afd27624fd5d8932f74533cb04292f89fe0e0))
+
 ### [1.2.1](https://www.github.com/googleapis/python-network-management/compare/v1.2.0...v1.2.1) (2021-11-01)
 
 
